@@ -12,7 +12,7 @@ In this repository, submit a pull request adding a file to the
 `proposals` directory.
 
 * For "length", specify either 45 minutes (long), 30 minutes (medium), or 15 minutes (lightning).
-* Use Markdown format. A sample proposal is there as a guide.
+* Use Markdown format. Copy the [sample proposal](https://github.com/nescalas/proposals-2016/blob/master/proposals/sample-proposal.md).
 * Multiple proposals go in separate files.
 
 ## Timeline
@@ -42,8 +42,8 @@ leave time for them.
 * Q: **If my talk gets voted in, am I guaranteed a ticket?**  
 A: Yes, but you still have to pay the $60. (Even conference organizers pay.)
 
-* Q: **If my talk isn't voted in, I still give it at the day 2 unconference?**  
-A: Of course. Yes, please.
+* Q: **If my talk isn't voted in, can I still give it at the day 2 unconference?**  
+A: Of course. Yes, please!
 
 * Q: **Will videos of the talks be published?**  
 A: Yes (unless the speaker objects). Day 1 only, though.
