@@ -49,7 +49,7 @@ leave time for them.
 ## FAQ
 
 * Q: **If my talk gets voted in, am I guaranteed a ticket?**  
-A: Yes, but you still have to pay the $60. (Even conference organizers pay.)
+A: Yes, but you still have to pay the $60. (Even conference organizers pay. We're all in this together.)
 
 * Q: **If my talk isn't voted in, can I still give it at the day 2 unconference?**  
 A: Of course. Yes, please!
