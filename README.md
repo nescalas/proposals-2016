@@ -18,6 +18,7 @@ For "length", specify either 45 minutes (long), 30 minutes (medium), or 15 minut
 * Use Markdown format
 * Copy the [sample proposal](https://github.com/nescalas/proposals-2016/blob/master/proposals/sample-proposal.md)
 * Multiple proposals go in separate files
+* Filename doesn't really matter, but if you want a suggestion: `lastname--name-of-the-talk.md`
 * Don't worry too much about exact formatting; we'll figure it out
 
 ## Timeline
