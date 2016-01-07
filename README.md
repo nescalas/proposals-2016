@@ -1,4 +1,4 @@
-## THIS IS A DRAFT -- NOT FINALIZED YET
+# Northeast Scala Symposium 2016: Talk proposals
 
 [NE Scala](http://nescala.org) does not select speakers:
 you do.
