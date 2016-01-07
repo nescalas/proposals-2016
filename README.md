@@ -26,7 +26,7 @@ For "length", specify either 45 minutes (long), 30 minutes (medium), or 15 minut
 ## Timeline
 
 * **proposals due:** January 15 @ 11:59pm
-* **day 1 tickets go on sale:** January 16 @ noon (at [Meetup](http://www.meetup.com/nescala/))
+* **day 1 tickets go on sale:** January 16 @ noon (at [Meetup](http://www.meetup.com/nescala/events/227877388/))
 * **voting opens:** January 18, if not sooner
 * **voting closes:** January 25 @ 11:59pm
 * **winners announced:** January 27
