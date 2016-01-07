@@ -9,7 +9,8 @@ voting for you to select the talks you want to see.
 ## How to submit a talk
 
 In this repository, submit a pull request adding a file to the
-`proposals` directory.
+`proposals` directory with the basics on your talk, including
+a one-paragraph summary.
 
 For "length", specify either 45 minutes (long), 30 minutes (medium), or 15 minutes (lightning).
 
@@ -17,6 +18,7 @@ For "length", specify either 45 minutes (long), 30 minutes (medium), or 15 minut
 
 * Use Markdown format
 * Copy the [sample proposal](https://github.com/nescalas/proposals-2016/blob/master/proposals/sample-proposal.md)
+* For more samples, see [last year's proposals](http://www.nescala.org/2015/talks#proposals)
 * Multiple proposals go in separate files
 * Filename doesn't really matter, but if you want a suggestion: `lastname--name-of-the-talk.md`
 * Don't worry too much about exact formatting; we'll figure it out
