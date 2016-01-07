@@ -55,4 +55,4 @@ A: Yes (unless the speaker objects). Day 1 only, though.
 
 Have a different question?
 [Open an issue](https://github.com/nescalas/proposals-2016/issues) and
-an organizer will answer.
+an organizer will answer.  (You can also ask questions in your pull request.)
