@@ -54,6 +54,13 @@ A: Yes, but you still have to pay the $60. (Even conference organizers pay. We'r
 * Q: **If my talk isn't voted in, can I still give it at the day 2 unconference?**  
 A: Of course. Yes, please!
 
+* Q: **Is it a good idea to submit multiple proposals?**  
+A: That's hard to say. At most one of your proposals can get in.
+And there is a danger of splitting your votes. On the other hand,
+when we tally the votes, we'll informally take vote-splitting
+partially into account; we don't want to lose a popular speaker
+just because of equally-split votes.
+
 * Q: **Will videos of the talks be published?**  
 A: Yes (unless the speaker objects). Day 1 only, though.
 
