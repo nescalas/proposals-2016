@@ -1,7 +1,7 @@
 * title: Distributed Real-Time Stream Processing: Why and How
 * presenter: Petr Zapletal
-* length: can do all of them, preference is 45 > 30 > 15 
-* Twitter: @petr_zapletal
+* length: 45 minutes
+* Twitter: https://twitter.com/petr_zapletal
 * Meetup: http://www.meetup.com/members/87846052/
 
 The demand for stream processing is increasing a lot these day. Immense amounts of data has to be processed fast
