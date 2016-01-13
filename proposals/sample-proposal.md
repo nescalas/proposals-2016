@@ -1,4 +1,4 @@
-* title: Go To Statement Considered Harmful
+* title: A Case Against the Goto Statement
 * presenter: Edsger W. Dijkstra
 * length: 30 minutes
 * Twitter: https://twitter.com/EdsgerWDijsktra
