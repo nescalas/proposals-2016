@@ -1,7 +1,7 @@
 * title: Spark Datasets: A comparison with RDDs and DataFrame Queries
 * presenter: Brian Clapper
 * length: 45 minutes
-* Twitter: @brianclapper
+* Twitter: https://twitter.com/brianclapper
 * Meetup: http://www.meetup.com/nescala/members/12380763/
 
 Traditionally, Apache Spark jobs have been written using Resilient

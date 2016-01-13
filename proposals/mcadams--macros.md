@@ -1,8 +1,8 @@
 * title: Macros for Mortals: Or, How I Learned To Stop Worrying and Mumbling “WTF”?
 * presenter: Brendan McAdams
 * length: 30 minutes *OR* 45 minutes (flexible)
-* twitter: https://twitter.com/rit
-* meetup: http://www.meetup.com/members/10987883/
+* Twitter: https://twitter.com/rit
+* Meetup: http://www.meetup.com/members/10987883/
 
 Since their introduction in 2.10, Macros have veritably taken Scala by storm. They pop up everywhere, often providing elegant syntax extensions for Scala libraries – note the prevalence of “sql” string interpolation macros, for example.
 

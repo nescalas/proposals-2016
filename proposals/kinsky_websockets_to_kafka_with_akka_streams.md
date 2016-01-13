@@ -1,7 +1,7 @@
 * title: From Websockets to Kafka with Akka Streams
 * presenter: Paul G. Kinsky
 * length: 15 minutes
-* Twitter: @paul_kinsky
+* Twitter: https://twitter.com/paul_kinsky
 * Meetup: http://www.meetup.com/members/88028382/
 
 Your app is a hit. Everyone's using your service. You've instrumented your website to collect real time usage data and you've set up a data processing pipeline to work with large amounts of data in real time, but how do you bridge the gap between web page and data pipeline? With websockets, Kafka and Akka Streams, of course!
