@@ -1,6 +1,6 @@
-* title: Complexity from typed simplicity
+* title: Checked complexity with typed simplicity
 * presenter: Adelbert Chang
-* length: 30 minutes
+* length: 45 minutes
 * Twitter: https://twitter.com/adelbertchang
 * Meetup: http://www.meetup.com/members/57389162/
 
