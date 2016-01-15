@@ -1,0 +1,10 @@
+* title: Thinking monadically
+* presenter: Lance Gatlin
+* length: 45 minutes
+* Email: lance.gatlin@gmail.com
+* Twitter: https://twitter.com/Lance_Gatlin
+* Meetup: http://www.meetup.com/atlanta-scala/members/14091376/
+* Slides: https://docs.google.com/presentation/d/16Km2CX1kQKLEVBNuEJm9-aRVAQCdOu_I7AlbKbuUlas
+
+When I first started with Scala four years ago, I had no experience in functional programming. At that time, I was just learning how to use immutable data, immutable collections, functional idioms and basic for-comprehensions. All of this made perfect sense to me. But multi-line for-comprehensions using a Scala "monad" (or scalaz.Monad) baffled me. I remember thinking "why would anyone want to code this way?". My frustration at the time lead me to read monad tutorial after monad tutorial and still I just didn't get it. After a few months of this, I realized I did understand the literal mechanics of monads and map/flatMap, but I still didn't get how that connected to reading or writing "monadic" code. Today, after severals years of Scala, I can happily say I've finally wrapped my head around all of that. And I love coding monadically now. The productivity, readability and conciseness of monadic workflows brings me a level of satifisaction with my code that I've yet to find using any other method.
+This presentation is my attempt to share those insights with you so that you too can start to read and write monadic code workflows easily. Starting with a simple non-technical definition of monads, this presentation breaks down the for-comprehension "code shape" of monads in an intuitive and easy to understand way. This intuitive code-shape is then connected to the underlying monad boilerplate with an explanation of the design of a custom monad. Finally, monadic workflows and examples of common monads are covered.
