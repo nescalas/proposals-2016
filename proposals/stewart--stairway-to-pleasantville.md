@@ -1,5 +1,5 @@
 * title: The Stairway to Pleasantville: Logic Programming in Scala
-* presenter: Edsger W. Dijkstra
+* presenter: Stewart Stewart
 * length: 15 minutes
 * Twitter: https://twitter.com/stewinsalot
 * Meetup: http://www.meetup.com/members/133346372/
