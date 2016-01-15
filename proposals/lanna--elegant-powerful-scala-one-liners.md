@@ -1,6 +1,6 @@
 * title: Elegant and Powerful Scala One-liners
 * presenter: Marconi Lanna
-* length: 45 minutes
+* length: 30 minutes *or* 45 minutes
 * Twitter: https://twitter.com/ScalaFacts
 * Meetup: http://www.meetup.com/members/70478592/
 
@@ -16,4 +16,3 @@ about short code, it's all about clear code.
 
 Bring your REPL, we are going to write some code!
 
-P.S.: A condensed 30-minute version of this talk is also being proposed.
