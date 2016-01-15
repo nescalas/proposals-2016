@@ -9,7 +9,7 @@ voting for you to select the talks you want to see.
 ## How to submit a talk
 
 In this repository, submit a pull request adding a file to the
-`proposals` directory with the basics on your talk, including
+[`proposals` directory](https://github.com/nescalas/proposals-2016/tree/master/proposals) with the basics on your talk, including
 a one-paragraph summary.
 
 For "length", specify either 45 minutes (long), 30 minutes (medium), or 15 minutes (lightning).
