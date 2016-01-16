@@ -6,25 +6,7 @@ you do.
 Talks are proposed by you and your peers. Later, we will open up
 voting for you to select the talks you want to see.
 
-## How to submit a talk
-
-In this repository, submit a pull request adding a file to the
-[`proposals` directory](https://github.com/nescalas/proposals-2016/tree/master/proposals) with the basics on your talk, including
-a one-paragraph summary.
-
-For "length", specify either 45 minutes (long), 30 minutes (medium), or 15 minutes (lightning).
-
-### Formatting
-
-* Use Markdown format
-* Copy the [sample proposal](https://github.com/nescalas/proposals-2016/blob/master/proposals/sample-proposal.md)
-* For more samples, see [last year's proposals](http://www.nescala.org/2015/talks#proposals)
-* Multiple proposals go in separate files
-* Filename doesn't really matter, but if you want a suggestion: `lastname--name-of-the-talk.md`
-* Ensure that the filename has extension `.md` or `.markdown`, please.
-* Don't worry too much about exact formatting; we'll figure it out
-
-## Timeline
+## Proposals are now closed
 
 * **proposals due:** January 15 @ 11:59pm
 * **day 1 tickets go on sale:** January 16 @ noon (at [Meetup](http://www.meetup.com/nescala/events/227877388/))
@@ -68,3 +50,21 @@ A: Yes (unless the speaker objects). Day 1 only, though.
 Have a different question?
 [Open an issue](https://github.com/nescalas/proposals-2016/issues) and
 an organizer will answer.  (You can also ask questions in your pull request.)
+
+## How to submit a talk (CLOSED)
+
+In this repository, submit a pull request adding a file to the
+[`proposals` directory](https://github.com/nescalas/proposals-2016/tree/master/proposals) with the basics on your talk, including
+a one-paragraph summary.
+
+For "length", specify either 45 minutes (long), 30 minutes (medium), or 15 minutes (lightning).
+
+### Formatting
+
+* Use Markdown format
+* Copy the [sample proposal](https://github.com/nescalas/proposals-2016/blob/master/proposals/sample-proposal.md)
+* For more samples, see [last year's proposals](http://www.nescala.org/2015/talks#proposals)
+* Multiple proposals go in separate files
+* Filename doesn't really matter, but if you want a suggestion: `lastname--name-of-the-talk.md`
+* Ensure that the filename has extension `.md` or `.markdown`, please.
+* Don't worry too much about exact formatting; we'll figure it out
